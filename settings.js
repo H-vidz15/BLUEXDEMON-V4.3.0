@@ -50,7 +50,7 @@ global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
-global.themeemoji = '🐦‍🔥'
+global.themeemoji = '🤟🏻'
 global.fotoRandom = [
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgC1d1LdE8t_W2mGbhUW1292Xi3ddt5xZacRdetnXpBOGLGHx0CmLQuTs&s=10",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqfmBimlAEwpPR1twNZV6ClUXRHTGgD-tJMw&usqp=CAU",
