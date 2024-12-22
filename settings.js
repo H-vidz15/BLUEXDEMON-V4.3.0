@@ -26,27 +26,27 @@ global.antiSpam = true
 
 global.sign = "〆"
 // ☞ ➻ ➽ ☛ 〆 
-global.bank = "Opay"
+global.bank = "Palmpay"
 
-global.bankname = "BLUE"
+global.bankname = "RAMOTA OLABISI SHONIBARE"
 
-global.accnumber = "7041039367"
+global.accnumber = "8066530020"
 
 global.language = "en"
 global.sessionName = "session"
 global.pairingCode = true 
 global.runWith = "𝙽𝙾𝙳𝙴.𝙹𝚂"
 global.newsletterJid = "120363304326105871@newsletter"
-global.newsletterName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
-global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 𝙱𝙻𝚄𝙴𝙳𝙴𝙼𝙾𝙽🐦‍🔥"
-global.ownerName = "𝐁𝐋𝐔𝐄 𝐃𝐄𝐌𝐎𝐍"
+global.newsletterName = "ꪜﺃᦔɀ ᥊"
+global.caption = "𝙿𝚘𝚠𝚎𝚛𝚎𝚍 𝚋𝚢 ꪜﺃᦔɀ🤟"
+global.ownerName = "ꪜﺃᦔɀ"
 global.syt = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sgc = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.sig = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 global.web = 'https://whatsapp.com/channel/0029Vah3fKtCnA7oMPTPJm1h'
 //setbot
-global.botName = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒" 
-global.wm = "𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍 𝐕𝟒"
+global.botName = "ꪜﺃᦔɀ ᥊" 
+global.wm = "ꪜﺃᦔɀ ᥊"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
@@ -60,14 +60,14 @@ global.multi = false
 global.prefa = "!"
 global.Console = false
 global.autorespon = false
-global.copyright = `BLUE DEMON BOT`
+global.copyright = `VIDZ X BOT`
 global.baileysVersion = `${themeemoji}Baileys ${version}`
 global.On = "On"
 global.Off ="Off"
 global.autoblockcmd = false
 global.fake1 ="Bot WhatsApp"
-global.packName = `𝐁𝐋𝐔𝐄𝐗𝐃𝐄𝐌𝐎𝐍`
-global.authorName = "BLUE DEMON"
+global.packName = `ꪜﺃᦔɀ ᥊`
+global.authorName = "ꪜﺃᦔɀ"
 global.replyType = "web"
 global.setwelcome = "type1"
 global.autoblockcmd = false
